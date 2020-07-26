@@ -8,7 +8,8 @@ Download: <a href="https://github.com/GamerSoiCon/EnchantShopUIVN/releases">Ench
 
 #### Config:
 + Bạn có thể sử dụng enchant từ PiggyCustomEnchants.
-```---
+```
+---
 #Đừng thay đổi cái này
 version: "0.6"
 
@@ -40,7 +41,8 @@ shop:
   price: 100
   max-level: 3
   incompatible-enchantments: []
-...```
+...
+```
 
 #### Youtube
 [![Watch the video](https://img.youtube.com/vi/fn9iZL0q5yk/maxresdefault.jpg)](https://youtu.be/fn9iZL0q5yk)
